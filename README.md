@@ -82,7 +82,6 @@
 <td>Web Designing</td>
 </tr>
 </table>
-
 </body>
 </html>
 
