@@ -25,6 +25,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 !DOCTYPE html>
 <html>
 <head>
@@ -84,6 +85,7 @@
 </table>
 </body>
 </html>
+```
 
 
 ## OUTPUT
